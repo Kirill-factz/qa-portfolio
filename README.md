@@ -105,3 +105,26 @@ qa-portfolio/
 │   └── portfolio-website-checklist.md
 └── test-cases/
     └── portfolio-website-test-cases.md
+```
+## About Me
+
+I am a student of Information Systems and Programming and I am currently developing practical skills for a Junior QA / Manual QA position.
+
+I have basic knowledge of:
+
+- Manual testing
+- Functional testing
+- Test cases
+- Checklists
+- Bug reports
+- Browser DevTools
+- SQL
+- Git / GitHub
+- HTML / CSS / JavaScript
+- Python
+
+English level: B1
+
+GitHub:
+https://github.com/Kirill-factz
+
